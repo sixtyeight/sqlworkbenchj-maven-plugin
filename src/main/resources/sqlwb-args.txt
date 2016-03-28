@@ -1,0 +1,77 @@
+package snippet;
+
+public class Snippet {
+	Available parameters:
+	-abortOnError (true/false) #
+	-altDelimiter #
+	-arguments
+	-autocommit (true/false) #
+	-bufferResults (true/false) #
+	-checkUncommitted (true/false) #
+	-cleanupError #
+	-cleanupSuccess #
+	-command #
+	-configDir
+	-connection
+	-connectionName
+	-connectionProperties
+	-consolidateMessages (true/false) #
+	-dataPumper (true/false)
+	-dbExplorer
+	-delimiter #
+	-displayResult (true/false) #
+	-driver
+	-driverclass #
+	-driverjar #
+	-emptyStringIsNull (true/false) #
+	-encoding #
+	-extension
+	-feedback (true/false) #
+	-fetchSize #
+	-help
+	-hideWarnings (true/false) #
+	-ignoreDropErrors (true/false) #
+	-interactive (true/false)
+	-language
+	-lbDefaults
+	-libdir
+	-logAllStatements #
+	-logfile #
+	-logLevel
+	-macroStorage
+	-noSettings (true/false)
+	-noTemplates
+	-objectSearcher
+	-optimizeColWidth (true/false)
+	-password #
+	-profile
+	-profilegroup
+	-profileStorage
+	-prop
+	-readOnly (true/false) #
+	-referenceConnection
+	-referenceGroup
+	-referenceProfile
+	-removeComments (true/false)
+	-rollbackOnDisconnect (true/false)
+	-script #
+	-separateConnection (true/false)
+	-showProgress (true/false) #
+	-showTiming
+	-sourceConnection
+	-sourceGroup
+	-sourceProfile
+	-targetConnection
+	-targetGroup
+	-targetProfile
+	-trimCharData (true/false) #
+	-url #
+	-username #
+	-varDef #
+	-varFile #
+	-variable #
+	-version
+	-workspace
+	
+}
+
